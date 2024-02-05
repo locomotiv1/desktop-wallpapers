@@ -1,1 +1,1 @@
-# desktop-wallpapers
+That's more of a personal storage rather than fully organized public Github repo, so for now there are only 1440p walpapers as it's my primary resolution. You are more than welcome to open a pull request with your favorite walpapers :D
